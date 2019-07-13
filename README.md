@@ -1,4 +1,4 @@
-# Natural Language Processing Notes - Unit-I
+# Natural Language Processing Notes
 
 First download the files to your device. Then follow the steps mentioned below if using Windows:
 
