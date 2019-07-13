@@ -4,10 +4,14 @@ First download the files to your device. Then follow the steps mentioned below i
 
 How to open .pages file using Microsoft Word?
 
+Use this converter: https://cloudconvert.com/pages-to-doc
+
+OR
+
 Opening a Pages Format File from Mac in Microsoft Windows
 Be sure to save the pages file somewhere easily accessible to Windows Explorer, then do the following:
 
-1. Make a copy of the .pages file as a backup in the event the file gets corrupted along the way
+1. Make a copy of the .pages file as a backup in the event the file gets corrupted along the way
 2. Right-click on the .pages file and choose “Rename”
 3. Delete the “.pages” extension and replace it with “.zip” extension*, then hit the Enter key to save the extension change
 4. Open the newly renamed .zip file to be able to open and access the Pages format content within Microsoft Word, Office, or WordPad
