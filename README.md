@@ -1,4 +1,6 @@
-# NLP_Notes-Unit-1
+# Natural Language Processing Notes - Unit-I
+
+First download the files to your device. Then follow the steps mentioned below if using Windows:
 
 How to open .pages file using Microsoft Word?
 
